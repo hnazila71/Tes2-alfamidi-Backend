@@ -1,7 +1,6 @@
 
 #!/bin/bash
 
-# stop kalau ada error
 set -e
 
 
